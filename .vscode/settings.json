@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": ["node_modules{,/**}", ".vscode{,/**}", ".env", "test{,/**}"],
+  "appService.deploySubpath": ".",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "appService.defaultWebAppToDeploy": "/subscriptions/b80f7c49-46f3-472c-81d8-f0a322ed6a08/resourceGroups/AppServiceOrderSystem2-rg/providers/Microsoft.Web/sites/order-system-azure"
+}
