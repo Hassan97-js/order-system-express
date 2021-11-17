@@ -1,2 +1,2 @@
 # order-system-express
-An express app 
+An Express.js app with MongoDB
